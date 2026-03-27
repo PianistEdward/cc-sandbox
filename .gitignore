@@ -1,0 +1,19 @@
+# OMC state directory (runtime data)
+.omc/
+CLAUDE.md
+
+# Local settings (may contain secrets)
+.claude/settings.local.json
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
